@@ -1,4 +1,6 @@
-![](banner.png)
+![](https://raw.githubusercontent.com/tidbyt/.github/main/profile/banner.png)
+
+
 [![Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fdiscuss.tidbyt.com&style=flat-square)](https://discuss.tidbyt.com/)
 [![Discord Server](https://img.shields.io/discord/928484660785336380?style=flat-square)](https://discord.gg/r45MXG4kZc)
 
